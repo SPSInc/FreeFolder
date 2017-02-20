@@ -1,2 +1,21 @@
 
-1. 일단 작성 후에 테스트 한번 해봅시다. 
+월 : (박) 스크립트 완성 및 테스트  
+     (조)- S/W  부하 테스트 관련 (추가 사항 )
+ 	
+
+화  : (박) Read / write , Kill , Lock , Anticollison , Hopping 
+    - 위에 대한 사항 정리 후 설명 할것 
+
+		
+수  : (조)Doxygen을 통한 문서 정리 (Combo SDK) / GIT & Souce Tree 사용법 정리 
+
+	
+목  : (박)C# / Combo SDK 진행 사항 정리 (용환씨 발표)
+
+     - C# RCP 문서 생성 관련 
+     - GET 관련은 완성 
+  	
+
+금  : 미진했던 것 정리 작업 
+   	
+
