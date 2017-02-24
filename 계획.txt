@@ -1,32 +1,26 @@
 
-월 : (박) 스크립트 완성 및 테스트  
-     (조)- S/W  부하 테스트 관련 (추가 사항 )
-	
 
-화  : (박) Read / write , Kill , Lock , Anticollison , Hopping 
-    - 위에 대한 사항 정리 후 설명 할것 
+-박용환-
+월  (Doxygen 작성)
 
-		
-수  : (조)Doxygen을 통한 문서 정리 (Combo SDK) / GIT & Souce Tree 사용법 정리 
+화  (Doxygen 완성)
 
-	
-목  : (박)C# / Combo SDK 진행 사항 정리 (용환씨 발표)
+수 (스크립트 완성 )
 
-     - C# RCP 문서 생성 관련 
-     - GET 관련은 완성 
-  	
+목  (C#) 
 
-금  : 미진했던 것 정리 작업 
-———————————————————
-결과
-월 : 스크립드 완성
-화~수: Tag Read/Write
-     bank 00 : reserved :: killPW(16bit), accessPW(16bit), 나머지는 쓰레기값
-     bank 01 : EPC :: crc(16bit), pc(16bit), EPC(길이만큼;Tag마다 제한된 길이 있음)
-     bank 10 : TID :: Tag정보 (규격 모델 회사… 등등) / write 할수 없음
-     bank 11 : UserMamory
-    * Memory Read 기능은 잘됨
-    * 실험한 Asterisk Tag(ImpinJ/Monza5)는 영구락이 걸려있어서 Write가 안됨(팀장님과 확인)
-    * 다른 Tag(ImpinJ/Monza4)로 Write 확인 
-    * 각 bank 마다 Start Address는 0부터 시작함
-    * AretePOP reader, Phychips 프로그램과 Dongle reader 동시 확인함
+금  (미진했던것 )
+
+
+
+
+-조상옥-
+월  : Xamarin APP / Combo SDK Test 
+
+화  : Xamarin APP
+
+수  : Xamarin APP / BLE Test 
+
+목  : Xamarin APP / BLE 원인 분석 
+
+금  (미진했던것 )
