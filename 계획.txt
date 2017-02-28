@@ -1,8 +1,9 @@
 
 
 -박용환-
-월  (Doxygen 작성)
-
+월  (Doxygen 작성)  => 각 파일의 Instance Methods, Class Methods, Properties의 설명 작성
+		  => 영문 작성, 다소 미흡
+ 
 화  (Doxygen 완성)
 
 수 (스크립트 완성 )
