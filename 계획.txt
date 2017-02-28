@@ -2,7 +2,7 @@
 
 -박용환-
 월  (Doxygen 작성)  => 각 파일의 Instance Methods, Class Methods, Properties의 설명 작성
-		  => 영문 작성, 다소 미흡
+		   => 영문 작성, 다소 미흡
  
 화  (Doxygen 완성)
 
@@ -10,7 +10,10 @@
 
 목  (C#) 
 
-금  (미진했던것 )
+금  : 공장동 앱 작성 (첨부파일 참조 )
+
+
+
 
 
 
